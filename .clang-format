@@ -1,0 +1,15 @@
+BasedOnStyle: Google
+BreakBeforeBraces: Allman
+IndentWidth: 2
+TabWidth: 2
+Language: Cpp
+SortIncludes: false
+SortUsingDeclarations: false
+UseTab: Never
+DerivePointerAlignment: false
+InsertBraces: true
+AlwaysBreakBeforeMultilineStrings: true
+BraceWrapping:
+  AfterControlStatement: true
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false

@@ -1,0 +1,9 @@
+.vscode
+build/
+build*/
+CMakeUserPresets.json
+*.sh
+.DS_Store
+*.so 
+*.a 
+*.o
